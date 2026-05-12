@@ -1,6 +1,6 @@
 # Contenido de tu archivo requirements.txt
 streamlit
-tensorflow-cpu
+tensorflow
 streamlit-drawable-canvas
 opencv-python-headless
 numpy
